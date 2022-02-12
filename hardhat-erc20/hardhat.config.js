@@ -1,7 +1,7 @@
 require("@nomiclabs/hardhat-waffle");
 
 
-const Private_Key = "513bc5dec418be4d5c2764412c9bd60eadf4eccf0064f2d1a7bc98df91934b68";
+const Private_Key = "enter private key here";
 /**
  * @type import('hardhat/config').HardhatUserConfig
  */
